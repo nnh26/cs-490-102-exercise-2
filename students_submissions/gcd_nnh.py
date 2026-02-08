@@ -1,6 +1,6 @@
 import math
 
-def gcd(a,b):
+def gcd(a: int, b: int) -> int:
 
     #handles negative numbers 
     a =abs(a)
